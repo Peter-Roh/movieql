@@ -6,6 +6,7 @@
   "repository": "https://github.com/Peter-Roh/movieql.git",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3"
   },
   "devDependencies": {
